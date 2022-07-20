@@ -39,7 +39,7 @@ const generateURI = (folder_name) => {
       attributes: [],
     };
 
-    fs.writeFileSync(`${i}`, JSON.stringify(content));
+    fs.writeFileSync(`${folder_name}/${i}`, JSON.stringify(content));
   }
 };
 
