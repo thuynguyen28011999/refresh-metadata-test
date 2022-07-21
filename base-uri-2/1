@@ -1,11 +1,11 @@
-{"name":"pham khhanh toan","image":"https://thumbs.dreamstime.com/b/wide-toothy-smile-face-young-brown-haired-woman-voluminous-hair-beautiful-model-long-dense-curly-hairstyle-139326548.jpg",
+{"name":"pham khhanh toan - nftify","image":"https://thumbs.dreamstime.com/b/wide-toothy-smile-face-young-brown-haired-woman-voluminous-hair-beautiful-model-long-dense-curly-hairstyle-139326548.jpg",
  "attributes": [
     {
       "trait_type": "Speed",
-      "value": "1"
+      "value": "5"
     },
     {
-      "trait_type": "Speed",
-      "value": "2"
+      "trait_type1": "Speed",
+      "value": "6"
     }
   ]}
